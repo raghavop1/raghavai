@@ -25,7 +25,7 @@ OWNER = config.OWNER_ID
 class MickeyBot(Client):
     def __init__(self):
         super().__init__(
-            name="MickeyBot",
+            name="QTHUBOT",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             lang_code="en",
